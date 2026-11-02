@@ -1,5 +1,7 @@
 # Social Media Mechanics 2026
 
+![Social Media Mechanics 2026 Banner](assets/banner.png)
+
 > A Hermes skill that teaches the **core mechanics of how social media works in 2026** — platform-agnostic principles for agents to analyze, strategize, and guide users. No personal data, no APIs, pure mechanics.
 
 ---
@@ -106,7 +108,7 @@ Agent: "Views = hook working. No follows = value→action gap.
 
 | Video | Creator | Core Mechanic Demonstrated | Why It Works |
 |-------|---------|---------------------------|--------------|
-| [The Retention Economy: How TikTok/Reels Algorithm Works in 2026](https://www.youtube.com/watch?v=example) | [Channel Name] | Watch-time optimization, loop mechanics | Shows real retention curves & algorithmic tier list |
+| [The Retention Economy: How TikTok/Reels/Shorts Algorithm Works in 2026](https://www.youtube.com/watch?v=example) | [Channel Name] | Watch-time optimization, loop mechanics | Shows real retention curves & algorithmic tier list |
 | [Why Saves Beat Likes: The New Algorithmic Currency](https://www.youtube.com/watch?v=example2) | [Channel Name] | Save-rate as Tier-1 signal | Platform insider explains signal hierarchy shift |
 | [Hook-Value-Action: The 3-Step Content Framework](https://www.youtube.com/watch?v=example3) | [Channel Name] | Loop mechanics | Frame-by-frame breakdown of viral posts |
 
@@ -121,7 +123,7 @@ Agent: "Views = hook working. No follows = value→action gap.
 hermes skill install social-media-mechanics-2026
 
 # Or clone for local development
-git clone https://github.com/Kowo101/social-media-scripts-maker-2026.git
+git clone https://github.com/Kowo101/social-media-mechanics-2026.git
 ```
 
 ---
@@ -152,8 +154,6 @@ social-media-mechanics-2026/
 ├── LICENSE                # MIT License
 ├── CONSTITUTION.md        # Project governance
 ├── SKILL.md               # Hermes skill definition
-├── assets/
-│   └── banner-prompt.md   # Prompt for banner image generation
 └── references/
     └── video-links.md     # Curated mechanistic video references
 ```
