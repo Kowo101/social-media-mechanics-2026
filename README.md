@@ -1,6 +1,6 @@
 # Social Media Mechanics 2026
 
-![Social Media Mechanics 2026 Banner](assets/banner.png)
+![Social Media Mechanics 2026 Banner](banner.png)
 
 > A Hermes skill that teaches the **core mechanics of how social media works in 2026** — platform-agnostic principles for agents to analyze, strategize, and guide users. No personal data, no APIs, pure mechanics.
 
@@ -154,6 +154,7 @@ social-media-mechanics-2026/
 ├── LICENSE                # MIT License
 ├── CONSTITUTION.md        # Project governance
 ├── SKILL.md               # Hermes skill definition
+├── banner.png             # Skill banner image
 └── references/
     └── video-links.md     # Curated mechanistic video references
 ```
