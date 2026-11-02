@@ -1,6 +1,6 @@
 # Social Media Mechanics 2026
 
-![Social Media Mechanics 2026 Banner](https://raw.githubusercontent.com/Kowo101/social-media-mechanics-2026/main/banner.png)
+![Social Media Mechanics 2026 Banner](https://github.com/Kowo101/social-media-mechanics-2026/raw/main/banner.png)
 
 > A Hermes skill that teaches the **core mechanics of how social media works in 2026** — platform-agnostic principles for agents to analyze, strategize, and guide users. No personal data, no APIs, pure mechanics.
 
